@@ -1,5 +1,13 @@
 {
-  "EOSIO": [    
+  "EOSIO": [
+{
+      "applink": "eos.games",
+      "name": "Eos.games",
+      "type": "Game",
+      "description": "It's easy to start",
+      "url": "https://game.asteroidrush.io",
+      "hasimage": "1"
+    },
     {
       "applink": "game.asteroidrush.io",
       "name": "Asteroid Rush",
